@@ -1,3 +1,5 @@
+### THIS REPOSITORY IS MEANT ONLY TO ACT AS A PORTFOLIO OF MY CONTRIBUTION TO THIS PROJECT, NOT AS A CURRENT INCANTATION OF MGKDB
+
 # **MGKDB**
 ### **What is MGKDB?**
 MGKDB is a tool for storing, accessing, and learning from a wealth of fusion results.  The main focus of MGKDB will be in the pedestal region of tokamaks, with a large portion of data coming from simulation results.  Currently, GENE is the only code compatible with the database, though compatibility with more codes will be added in the future.
